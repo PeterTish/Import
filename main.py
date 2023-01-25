@@ -12,5 +12,3 @@ from datetime import datetime
 if __name__ == '__main__':
     print(f'На {datetime.now()} в твоей команде: {get_employees()}')
     print(calculate_salary())
-
-
